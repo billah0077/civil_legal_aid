@@ -1,0 +1,7 @@
+1.Verson: Apache/2.4.39(Win64) PHP/7.3.6
+
+-Extract file
+-copy under htdocs in xampp folder
+-create databse named 'legal_aid'
+-------------
+Enjoy!
